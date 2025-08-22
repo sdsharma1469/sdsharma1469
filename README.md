@@ -1,7 +1,7 @@
 ## Hi! I'm Shaunak 👋
 
 <p align="right">
-  <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf"/>
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf"/>
 </p>
 
 
