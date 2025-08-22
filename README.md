@@ -1,5 +1,9 @@
-## Hi! Im Shaunak 👋
-<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf" />
+## Hi! I'm Shaunak 👋
+
+<p align="right">
+  <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf"/>
+</p>
+
 
 <!--
 **sdsharma1469/sdsharma1469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
