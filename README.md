@@ -1,5 +1,7 @@
 # Hi! I'm Shaunak 👋
 
+<div align="center">
+
 <table>
   <tr>
     <td width="60%">
@@ -11,8 +13,10 @@
 🚀 Always building & exploring new ideas  
 
     </td>
-    <td width="40%">
+    <td width="40%" align="center">
       <img src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf" width="250"/>
     </td>
   </tr>
 </table>
+
+</div>
