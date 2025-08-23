@@ -4,7 +4,7 @@
 
 🎓 Pursuing a **B.S. in Computer Science & Engineering** and an **M.S. in Robotics & Automation** at *Santa Clara University*  
 🤖 Passionate about building **low-level systems, robotics, and full-stack applications**  
-🏐 Enthusiastic about **volleyball, fitness, and teamwork**  
+🏐 Passionate about **volleyball**  
 🚀 Always curious, always creating  
 
 ---
