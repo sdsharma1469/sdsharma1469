@@ -7,13 +7,9 @@
 🏐 Passionate about **volleyball** and teamwork on and off the court  
 🚀 Driven by curiosity & a love for building things that push boundaries  
 
----
-
 ## 🔎 Featured Project  
 ✨ [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler)  
 A custom compiler that translates an **Eva-based language** into **JavaScript** — blending language design with systems-level thinking.
-
----
 
 ## 🛠 Tech Stack  
 
@@ -25,4 +21,3 @@ A custom compiler that translates an **Eva-based language** into **JavaScript** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
----
