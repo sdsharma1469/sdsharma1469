@@ -1,14 +1,16 @@
-# Hi, I'm Shaunak 👋  
+# Hi! I'm Shaunak 👋  
 
-<img src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf" align="right" width="325"/>
+<img src="https://github.com/user-attachments/assets/faa4100b-5cf4-43d4-875f-04eab64f8faf" align="right" width="375"/>
 
-🎓 **B.S. Computer Science & Engineering** + **M.S. Robotics & Automation** @ *Santa Clara University*  
-🤖 Exploring **low-level systems, robotics, and full-stack development**  
-🏐 Passionate about **volleyball** and teamwork on and off the court  
-🚀 Driven by curiosity & a love for building things that push boundaries  
+🎓 Pursuing a **B.S. in Computer Science & Engineering** and an **M.S. in Robotics & Automation** at *Santa Clara University*  
+
+🤖 Learning about **building low-level systems, robotics, and full-stack applications**  
+
+🏐 Passionate about **volleyball**  
+
+🚀 Always curious, always creating  
 
 ---
 
-## 🔎 Featured Project  
-✨ [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler)  
-A custom compiler that translates an **Eva-based language** into **JavaScript** — blending language design with systems-level thinking.
+💡 **Featured Project:**  
+Check out my [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler) — a project where I built a custom compiler that translates an Eva-based language into JavaScript.
