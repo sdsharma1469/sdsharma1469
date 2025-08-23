@@ -9,6 +9,12 @@
 
 ---
 
+## 🔎 Featured Project  
+✨ [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler)  
+A custom compiler that translates an **Eva-based language** into **JavaScript** — blending language design with systems-level thinking.
+
+---
+
 ## 🛠 Tech Stack  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
@@ -20,7 +26,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ---
-
-## 🔎 Featured Project  
-✨ [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler)  
-A custom compiler that translates an **Eva-based language** into **JavaScript** — blending language design with systems-level thinking.
