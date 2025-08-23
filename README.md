@@ -4,4 +4,5 @@
 🤖 Learning about **building low-level systems, robotics, and full-stack applications** 
 🏐 Passionate about **volleyball** 
  
---- 💡 Featured Project: Check out my [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler) — a project where I built a custom compiler that translates an Eva-based language into JavaScript.
+--- 
+💡 Featured Project: Check out my [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler) — a project where I built a custom compiler that translates an Eva-based language into JavaScript.
