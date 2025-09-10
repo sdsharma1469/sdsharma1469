@@ -13,4 +13,4 @@
 ---
 
 💡 **Featured Project:**  
-Check out my [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler) — a project where I built a custom compiler that translates an Eva-based language into JavaScript.
+Check out my [**Eva → JavaScript Transpiler**](https://github.com/sdsharma1469/projects/tree/main/transpiler) — a project where I built a custom compiler that translates an Eva-based language (Similar to Erlang) into JavaScript.
