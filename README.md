@@ -2,26 +2,14 @@
 
 <p align="center">
   <b>Robotics · AI · Software Engineering</b><br>
-  M.S. Computer Science (Artificial Intelligence) @ USC · B.S. Computer Science & Engineering @ Santa Clara University
+  M.S. Computer Science (Artificial Intelligence) @ USC · 
+  B.S. Computer Science & Engineering @ Santa Clara University
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaunakdassharma">LinkedIn</a> ·
   <a href="mailto:shaunak.sharma@gmail.com">Email</a>
 </p>
-
----
-
-## About Me
-
-I'm a software and robotics engineer interested in building intelligent systems that can **perceive, plan, and act in the real world**.
-
-My work has spanned multi-robot path planning, warehouse simulation, computer vision, robot control, production voice AI, and full-stack software. I'm especially interested in **robot learning, human-robot interaction, autonomy, and intelligent control**.
-
-- 🤖 Building with **ROS2, Gazebo, Nav2, OpenCV, Arduino, and simulation tools**
-- 🧠 Interested in **robot learning, computer vision, planning, and AI for robotics**
-- 💻 Comfortable across **Python, C++, C, MATLAB, and JavaScript/TypeScript**
-- 🏐 Outside of tech, you'll usually find me playing volleyball
 
 ---
 
